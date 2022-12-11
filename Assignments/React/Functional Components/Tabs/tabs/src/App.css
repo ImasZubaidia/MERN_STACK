@@ -1,0 +1,16 @@
+.App{
+  width:500px;
+  margin-left: 450px;
+  margin-top: 40px;
+}
+.but{
+  margin: 10px;
+}
+.content{
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 3px
+}
+.buttons{
+  margin-left: 90px;
+}
