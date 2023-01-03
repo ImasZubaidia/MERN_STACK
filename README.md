@@ -64,3 +64,6 @@
 
 
 
+## Questions
+
+🔧 Please feel free reach out to us should you have any questions, comments, or concerns. Please connect with us through GitHub.<br />
