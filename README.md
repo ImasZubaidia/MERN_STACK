@@ -40,7 +40,8 @@
 ```
  
  # ER Diagram
-https://user-images.githubusercontent.com/110999043/210460528-db321ead-0046-4121-a061-4ce78e9ff6d5.png
+![ERD](https://user-images.githubusercontent.com/110999043/210460528-db321ead-0046-4121-a061-4ce78e9ff6d5.png)
+
  
  
  # Samples
