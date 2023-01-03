@@ -5,7 +5,7 @@
 <p align="center">
 
  <li>a Web-Developer Portfolio Generator built with 
-  
+  <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/React-9cf" />
     <img src="https://img.shields.io/badge/-TailwindCSS-blueviolet" />
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Express-brightgreen" />
     <img src="https://img.shields.io/badge/JWT-orange" />
     <img src="https://img.shields.io/badge/MongoDB-darkgreen" />
-
+<p align="center">
 <li> This project is developed by team of 4 Full-Stack Developers during MERN Week Project in Axsos Academy.
 
 
