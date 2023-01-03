@@ -40,26 +40,23 @@
 ```
  
  # ER Diagram
- ![erd-tawseel](https://user-images.githubusercontent.com/110999043/203430857-168739fb-7418-4660-8db8-10f263069012.png)
+https://user-images.githubusercontent.com/110999043/210460528-db321ead-0046-4121-a061-4ce78e9ff6d5.png
  
  
  # Samples
  
  1. Dashboard Main Page 
 
-![erd-tawseel](https://i.imgur.com/oUFFdK9.jpeg)
+
  
  2. Login Page 
  
- ![erd-tawseel](https://i.imgur.com/HF1W4tV.jpeg)
+
  
  4. About Us Page
  
- ![erd-tawseel](https://i.imgur.com/VmBOxGC.jpeg)
-
- 4. Admin Dashboard
  
-  ![admin-tawseel](https://i.imgur.com/lKfWGPY.png)
+
 
  
  # Contributors
