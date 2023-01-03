@@ -8,6 +8,7 @@
 
 
   # Built with
+=  <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/React-9cf" />
     <img src="https://img.shields.io/badge/-TailwindCSS-blueviolet" />
