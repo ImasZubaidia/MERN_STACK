@@ -21,7 +21,7 @@
 ### Used Techs & Tools:
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=react,express,mongo db,node js,git,github)]
+[![](https://skillicons.dev/icons?i=react,express,mongo,node,git,github)]()
 
 
 ## Installation & Run
