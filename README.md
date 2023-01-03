@@ -1,7 +1,7 @@
 <h1 align="center">Web-Developer Portfolio Generator</h1>
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/110999043/210457860-559f0af6-fb17-4056-8f05-cb3f3baacd1a.PNG"/>
+ <img src="https://user-images.githubusercontent.com/110999043/210457945-9523ce47-645b-4566-9c33-e88d0ec94794.PNG"/>
 
 <p align="center">
 
