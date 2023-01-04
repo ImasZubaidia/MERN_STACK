@@ -23,21 +23,25 @@
 
 [![](https://skillicons.dev/icons?i=react,express,mongo,js,git,github)]()
 
+## Getting Started
+- clone the repository via ssh `git@github.com:ejb3ck3tt/Restaurant_App.git` or https `https://github.com/ejb3ck3tt/Restaurant_App.git`
+- `cd Restaurant_App`
+- `npm install` 
 
-## Installation & Run
+## Setup and run server
+- `cd backend`
+- `npm install`
+- run `nodemon server`
 
-* Before running the API server, you should update the database config inside the [application.properties] file. 
-* Update the port number, username and password as per your local database config.
+## Setup frontend
+- `cd frontend`
+- `npm install`
+- run `npm start`
 
-```
-    server.port=8080
-
-    spring.datasource.url=jdbc:mysql://localhost:3306/fdb;
-    spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-    spring.datasource.username="Your SQL username"
-    spring.datasource.password="Your SQL Password"
-
-```
+### `npm start`
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ 
  
  # ER Diagram
 ![ERD](https://user-images.githubusercontent.com/110999043/210460528-db321ead-0046-4121-a061-4ce78e9ff6d5.png)
