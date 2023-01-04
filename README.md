@@ -21,6 +21,10 @@
 <!-- language -->
 
 [![](https://skillicons.dev/icons?i=react,express,mongo,js,git,github)]()
+ 
+ 
+  # ER Diagram
+![ERD](https://user-images.githubusercontent.com/110999043/210461879-cc6c5f2b-cc68-48e1-8bd6-2bda547d4cc2.png)
 
  
  
@@ -44,8 +48,6 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
  
  
- # ER Diagram
-![ERD](https://user-images.githubusercontent.com/110999043/210460528-db321ead-0046-4121-a061-4ce78e9ff6d5.png)
 
  
  
