@@ -14,12 +14,16 @@
 2. Express
 3. Mongo Db
 4. Node JS
+ 
+ 
 
 ## Used Techs & Tools:
 <!-- language -->
 
 [![](https://skillicons.dev/icons?i=react,express,mongo,js,git,github)]()
 
+ 
+ 
 ## Getting Started
 - clone the repository via ssh `git@github.com:ejb3ck3tt/Restaurant_App.git` or https `https://github.com/ejb3ck3tt/Restaurant_App.git`
 - `cd Restaurant_App`
