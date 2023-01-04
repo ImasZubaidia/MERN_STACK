@@ -15,7 +15,7 @@
 3. Mongo Db
 4. Node JS
 
-### Used Techs & Tools:
+## Used Techs & Tools:
 <!-- language -->
 
 [![](https://skillicons.dev/icons?i=react,express,mongo,js,git,github)]()
