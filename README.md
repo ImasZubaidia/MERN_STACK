@@ -9,14 +9,11 @@
 
 
  
-### Built with
+## Built with
 1. React
 2. Express
 3. Mongo Db
 4. Node JS
-
- 
-
 
 ### Used Techs & Tools:
 <!-- language -->
