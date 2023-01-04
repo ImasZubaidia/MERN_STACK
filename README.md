@@ -29,7 +29,7 @@
  
  
 ## Getting Started
-- clone the repository via ssh `git@github.com:ejb3ck3tt/Restaurant_App.git` or https `https://github.com/ejb3ck3tt/Restaurant_App.git`
+- clone the repository via ssh `git@github.com:TechFolio-MERN-Project.git` or https `https://github.com/TechFolio-MERN-Project.git`
 - `cd Restaurant_App`
 - `npm install` 
 
@@ -53,21 +53,23 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
  
  # Samples
  
- 1. Dashboard Main Page 
+ 1. Welcoming Page 
 
 
  
- 2. Login Page 
+ 2. Login and registration page
  
 
  
- 4. About Us Page
+ 4. Dashboard Main Page 
  
  
 
 
  
  # Contributors
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/ImasZubaidia">Imas Zubaidia</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/MajdSheikh">Majd Sheikh</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/MariamDabous">Mariam Da</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/RababJarrar">Rabab Jarrar</a>
+<p align="center">
 
 
 
